@@ -1,6 +1,6 @@
-# Xamarin Insights
+# Xamarin.Insights
 
-Use it to upload your dSym to Xamarin.Insights.
+Use it to upload your dSYM to Xamarin.Insights.
 
 Can be run directly with the [bitrise CLI](https://github.com/bitrise-io/bitrise),
 just `git clone` this repository, `cd` into it's folder in your Terminal/Command Line
