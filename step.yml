@@ -23,8 +23,8 @@ inputs:
       is_expand: true
   - dsym_path: $BITRISE_DSYM_PATH
     opts:
-      title: Path to your zipped dSYM path
+      title: Path to your zipped dSYM file
       description: |
-        Path to your zipped dSYM path
+        Path to your zipped dSYM file
       is_required: true
       is_expand: true
