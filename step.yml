@@ -1,7 +1,7 @@
 title: "Xamarin.Insights"
 summary: Upload your dSym to Xamarin.Insights
 description: |-
-  Upload your dSym to Xamarin.Insights
+  Upload your dSYM to Xamarin.Insights
 website: https://github.com/bitrise-steplib/steps-xamarin-insights
 source_code_url: https://github.com/bitrise-steplib/steps-xamarin-insights
 support_url: https://github.com/bitrise-steplib/steps-xamarin-insights/issues
@@ -23,8 +23,8 @@ inputs:
       is_expand: true
   - dsym_path: $BITRISE_DSYM_PATH
     opts:
-      title: Path to your zipped dSYM file
+      title: Path to your dSYM file
       description: |
-        Path to your zipped dSYM file
+        Path to your dSYM file
       is_required: true
       is_expand: true
