@@ -1,5 +1,7 @@
 # Xamarin.Insights
 
+**WARNING: This step is deprecated, the Xamarin Insights service will be shutted down on March 31, 2018.**
+
 Use it to upload your dSYM to Xamarin.Insights.
 
 Can be run directly with the [bitrise CLI](https://github.com/bitrise-io/bitrise),
